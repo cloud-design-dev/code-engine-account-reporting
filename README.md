@@ -1,3 +1,4 @@
 # Account Reporting via Code Engine
 
-Get account usage details via Code Engine Jobs and Python
+Use Python and IBM Cloud Code Engine to get account usage details. 
+
